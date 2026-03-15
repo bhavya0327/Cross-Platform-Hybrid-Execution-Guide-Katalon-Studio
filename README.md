@@ -33,8 +33,8 @@ driver.activateApp("com.android.chrome")
 WebUI.delay(4)
 WebUI.setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username"), "John Doe")
 
-
-
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 🖥️ Scenario 2: Desktop Web + Mobile App Integration
 Use this approach to start a test on a Local Desktop Browser (Chrome/Firefox) and then interact with a Mobile Device mid-test.
